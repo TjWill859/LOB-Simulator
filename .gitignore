@@ -1,0 +1,7 @@
+# .gitignore
+build/
+*.o
+*.out
+.vscode/
+.idea/
+.DS_Store
